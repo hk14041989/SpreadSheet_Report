@@ -1,0 +1,15 @@
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\bin\Debug\ReportWPF.exe.config
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\bin\Debug\ReportWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\bin\Debug\ReportWPF.pdb
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.csprojResolveAssemblyReference.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\MainWindow.baml
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\MainWindow.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\App.g.cs
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF_MarkupCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.g.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.Properties.Resources.resources
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.csproj.GenerateResource.Cache
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\RdlCompile.cache
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\RdlCompile.compiled
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.exe
+d:\users\kienpham\documents\visual studio 2013\Projects\WpfActiveReport\ReportWPF\obj\Debug\ReportWPF.pdb
